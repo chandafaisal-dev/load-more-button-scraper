@@ -23,7 +23,7 @@ load_more_products.csv
 
 ## Screenshot
 
-![Output](load_more_products.csv)
+![Output](load more.png)
 
 ## How to Run
 

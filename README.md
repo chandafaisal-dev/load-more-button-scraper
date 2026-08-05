@@ -24,7 +24,7 @@ load_more_products.csv
 ## Screenshot
 
 
-![Output](load_more_button.png)
+![Output](load more.png)
 
 ## How to Run
 
